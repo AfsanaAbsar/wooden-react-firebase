@@ -1,0 +1,74 @@
+[
+    {
+        "id": "001",
+        "name": "Chocolate Cake",
+        "price": "$140",
+        "img": "https://i.ibb.co/fthCHyS/Product1.jpg"
+    },
+    {
+        "id": "002",
+        "name": "Fruit Cake",
+        "price": "$100",
+        "img": "https://i.ibb.co/m4GfPRQ/product2.jpg"
+    },
+    {
+        "id": "003",
+        "name": "Vanilla Cake",
+        "price": "$120",
+        "img": "https://i.ibb.co/rwWVP0R/Product3.jpg"
+    },
+    {
+        "id": "004",
+        "name": "Jar Cake",
+        "price": "$120",
+        "img": "https://i.ibb.co/HgfCwmp/Peoduct4.jpg"
+    },
+    {
+        "id": "005",
+        "name": "Strawberry Cake",
+        "price": "$130",
+        "img": "https://i.ibb.co/7NGhj3M/Product5.jpg"
+    },
+    {
+        "id": "006",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/hdwQwZ3/image.jpg"
+    },
+    {
+        "id": "007",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/r61kWck/Product7.jpg"
+    },
+    {
+        "id": "008",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/n8L5rNL/Product8.jpg"
+    },
+    {
+        "id": "009",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/rtn1gfJ/Product9.jpg"
+    },
+    {
+        "id": "010",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/9n9pZK3/Product10.jpg"
+    },
+    {
+        "id": "011",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/8B58Vzr/Product11.jpg"
+    },
+    {
+        "id": "012",
+        "name": "Cup Cake",
+        "price": "$150",
+        "img": "https://i.ibb.co/KGxM6mf/Product12.jpg"
+    }
+]

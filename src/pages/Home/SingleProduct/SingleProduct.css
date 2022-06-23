@@ -1,0 +1,9 @@
+.card-img {
+    width: 200px;
+    height: 300px;
+}
+
+.card-body {
+    align-items: center;
+    text-align: center;
+}
